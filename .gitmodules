@@ -1,0 +1,6 @@
+[submodule "gp-promptGenerator"]
+	path = gp-promptGenerator
+	url = https://github.com/parkjumsun/gp-promptGenerator.git
+[submodule "gp-web"]
+	path = gp-web
+	url = https://github.com/parkjumsun/gp-web.git
